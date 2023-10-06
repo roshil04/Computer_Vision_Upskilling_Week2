@@ -1,0 +1,28 @@
+<annotation>
+  <folder>C:/Users/Roshil/Downloads/Week2</folder>
+  <filename>cat_dog.jpg</filename>
+  <path>C:/Users/Roshil/Downloads/Week2/cat_dog.jpg</path>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>20</xmin>
+      <ymin>150</ymin>
+      <xmax>160</xmax>
+      <ymax>360</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>50</ymin>
+      <xmax>450</xmax>
+      <ymax>450</ymax>
+    </bndbox>
+  </object>
+</annotation>
